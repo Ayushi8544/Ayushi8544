@@ -17,9 +17,9 @@ As a passionate web developer with expertise in full-stack development, I am com
 
 What do I do? 
 
-# I aspire to work as a programmer.
-# I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
-# Currently looking for opportunities as a Full Stack Web developer to help me learn and grow as a web developer.
+### I aspire to work as a programmer.
+### I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
+### Currently looking for opportunities as a Full Stack Web developer to help me learn and grow as a web developer.
 
 
 
