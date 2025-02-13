@@ -9,11 +9,9 @@ As a passionate web developer with expertise in full-stack development, I am com
 
 ### 🌍 I hail from Bangalore, Maharashtra.
 
-### 🔥 Visit my Portfolio for more details.
+### 🔥 Visit my Portfolio https://ayushi8544.github.io/portfolio/ for more details.
 
 ### ✉️ You can contact me at ayushishandilya787@gmail.com
-
-### ⭐ My top 2 projects are : 
 
 ## What do I do? 
 
