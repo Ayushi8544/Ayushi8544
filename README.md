@@ -1,16 +1,25 @@
-Hi## Hi there 👋
+Hi, I'm ayushi.
 
-<!--
-**Ayushi8544/Ayushi8544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Full stack Web Developer. 
 
-Here are some ideas to get you started:
+👨‍💻ABOUT ME:
+As a passionate web developer with expertise in full-stack development, I am committed to crafting intuitive and user-centric websites and applications. With a strong foundation in both front-end and back-end technologies, I focus on delivering seamless, high-performance digital experiences that engage users and meet business goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Currently learning Node.js, cloud services 
+
+🌍 I hail from Bangalore, Maharashtra.
+
+🔥 Visit my Portfolio for more details.
+
+✉️ You can contact me at ayushishandilya787@gmail.com
+
+⭐ My top 2 projects are : 
+
+What do I do? 
+✅ I aspire to work as a programmer.
+✅ I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
+✅ Currently looking for opportunities as a Full Stack Web developer to help me learn and grow as a web developer.
+
+
+
+
