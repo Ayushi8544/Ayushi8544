@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 🎯 Frontend Developer skilled in **, HTML, CSS, JavaScript, NodeJs, Express.js, and Sql**  
+- 🎯 Web Developer skilled in **, HTML, CSS, JavaScript, NodeJs, Express.js, and Sql**  
 - 🎨 Passionate about creating **beautiful & user-friendly web applications**  
 - 📚 Always learning & improving my skills in **APIs & JavaScript frameworks**  
 - 💡 Exploring **Node.js**  
